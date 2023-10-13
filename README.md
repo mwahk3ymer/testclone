@@ -1,4 +1,5 @@
 AirBnB Clone Project README
+
 Welcome to the AirBnB Clone Project!
 Project Description
 The AirBnB Clone Project is the first step towards building a full-fledged web application that emulates the core functionality of Airbnb. In this initial stage, we will be developing a command-line interface (CLI) to manage AirBnB objects. This is a crucial foundation for the entire project, as it will be used in conjunction with various other components, such as HTML/CSS templating, database storage, API development, and front-end integration.
